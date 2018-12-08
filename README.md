@@ -40,3 +40,14 @@ npm install web3
 ### 04-interaction
 
 与合约交互文件
+
+### 注意：
+
+项目是在GoLandIDE下开发的，注意环境配置，要记得下载node插件。
+
+新项目导入还需要再配置下Node模块Settings -> Languages & Frameworks -> JavaScript ->Libraries ->Add
+
+在弹出框中填入名称（自定义），下拉选择Node.js 再选中Global 点击OK
+
+以上项目中地址均为本地测试地址，所以想拿地址弄钱的，请换别处吧。
+
